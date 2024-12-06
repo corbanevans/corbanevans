@@ -1,6 +1,7 @@
 # Corban Evans - Cybersecurity Engineer Portfolio
 
-![GitHub Profile Picture](https://github.com/user-attachments/assets/e61d0bbf-5c22-49ca-a7fd-c4227fc51c8c)
+![GitHub Profile Picture](https://github.com/user-attachments/assets/85531522-7ca8-40cb-83ae-375e4df44f67)
+
 
 Welcome to my professional GitHub portfolio! This repository showcases projects that highlight my skills and experience as a **Cybersecurity Engineer** with a strong focus on **Python development, containerized solutions, web technologies, network administration, and database management**. 
 
